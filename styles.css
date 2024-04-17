@@ -1,0 +1,34 @@
+canvas {
+  display: block;
+  margin: auto; /* Adjust this value for the desired gap */
+  margin-top: 20px;
+  border: 0.5px solid lightblue;
+}
+
+.light-blue-text {
+  color: #26aabb; /* Light blue color */
+  font-size: large;
+}
+.light-red-text{
+  color: #e6ba0c;
+  font-size: large;
+}
+.start-button {
+  margin-right: 10px; /* Adjust the margin as needed */
+  
+}
+.font {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.bold {
+  font-weight: bold ;
+}
+.custom-left-margin {
+  margin-left: 20px; 
+}
+.custom-right-margin {
+  margin-right: 20px;
+}
+.standard-margin-10 {
+  margin-right: 10px;
+}
